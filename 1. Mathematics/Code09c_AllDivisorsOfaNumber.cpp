@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 //Efficient Solution
-//printing in Unsorted order
+//printing in Sorted order
 void Divisors(int n)
 {
     int i;
