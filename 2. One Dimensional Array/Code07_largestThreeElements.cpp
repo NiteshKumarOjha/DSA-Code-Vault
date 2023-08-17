@@ -31,7 +31,7 @@ int main()
             tMax = sMax;
             sMax = v[i];
         }
-        else if(v[i]>sMax && v[i]!= max && v[i]!= sMax)
+        else if(v[i]>tMax && v[i]!= max && v[i]!= sMax)
         {
             tMax = v[i];
         }
