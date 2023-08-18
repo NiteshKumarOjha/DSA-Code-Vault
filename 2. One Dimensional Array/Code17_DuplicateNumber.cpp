@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    int nums[] = {1, 3, 3, 2, 2};
+    int nums[] = {1, 3, 4, 2, 2};
 
     while (nums[0] != nums[nums[0]])
     {
